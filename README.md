@@ -1,3 +1,3 @@
 # Java-Console-base-commection-with-MYSQL
 
-This java connection example with mysql with the select and insert function on DB
+This is java connection example with mysql. The select and insert function on DB are available in it 
